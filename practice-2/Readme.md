@@ -59,7 +59,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-2-1.png)
+[2-1](screenshots/task-2-1.png)
 
 Задание 2.2: Чётное или нечётное
 Постановка задачи
@@ -457,4 +457,5 @@ int main(void) {
     return 0;
 }
 Результаты работы
+
 (screenshots/task-2-9.png)
