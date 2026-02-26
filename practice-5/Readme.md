@@ -87,7 +87,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-[5-1](screenshots/task-5-1.png)
+![5-1](screenshots/task-5-1.png)
 
 Задание 5.2: Операции с матрицами (VLA)
 Постановка задачи
@@ -227,7 +227,7 @@ int main(void) {
 }
 
 Результаты работы
-[5-2](screenshots/task-5-2.png)
+![5-2](screenshots/task-5-2.png)
 
 Задание 5.3: Сортировка с компаратором
 Постановка задачи
@@ -319,7 +319,7 @@ int main(void) {
 }
 
 Результаты работы
-[5-3](screenshots/task-5-3.png)
+![5-3](screenshots/task-5-3.png)
 
 Задание 5.4: Функциональные операции над массивами
 Постановка задачи
@@ -397,7 +397,7 @@ int main(void) {
 }
 
 Результаты работы
-[5-4](screenshots/task-5-4.png)
+![5-4](screenshots/task-5-4.png)
 
 Задание 5.5: Поиск в массиве
 Постановка задачи
@@ -472,7 +472,7 @@ int main(void) {
 }
 
 Результаты работы
-[5-5](screenshots/task-5-5.png)
+![5-5](screenshots/task-5-5.png)
 
 Задание 5.6: Обработка изображений
 Постановка задачи
@@ -538,7 +538,7 @@ int main(void) {
 }
 
 Результаты работы
-[5-6](screenshots/task-5-6.png)
+![5-6](screenshots/task-5-6.png)
 
 Задание 5.7*: Генератор последовательностей
 Постановка задачи
@@ -616,7 +616,7 @@ int main(void) {
 }
 
 Результаты работы
-[5-7](screenshots/task-5-7.png)
+![5-7](screenshots/task-5-7.png)
 
 Задание 5.8*: Композиция функций
 Постановка задачи
@@ -668,4 +668,5 @@ int main(void) {
 }
 
 Результаты работы
-[5-8](screenshots/task-5-8.png)
+
+![5-8](screenshots/task-5-8.png)
