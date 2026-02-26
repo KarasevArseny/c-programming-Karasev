@@ -35,7 +35,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-А4-1.png)
+![A4-1](screenshots/task-А4-1.png)
 
 Задание А.2: Изменение через указатель
 Постановка задачи
@@ -60,7 +60,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-А4-2.png)
+![A4-2](screenshots/task-А4-2.png)
 
 Задание А.3: Два указателя на одну переменную
 Постановка задачи
@@ -107,7 +107,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-А4-3.png)
+![A4-3](screenshots/task-А4-3.png)
 
 Задание А.4: Обмен значений через указатели
 Постановка задачи
@@ -139,7 +139,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-А4-4.png)
+![A4-4](screenshots/task-А4-4.png)
 
 Задание А.5: Указатель и массив
 Постановка задачи
@@ -199,7 +199,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-А4-6.png)
+![A4-6](screenshots/task-А4-6.png)
 
 Задание А.7: Изменение массива через указатель
 Постановка задачи
@@ -223,7 +223,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-А4-7.png)
+![A4-7](screenshots/task-А4-7.png)
 
 Задание А.8: Указатели и sizeof
 Постановка задачи
@@ -247,7 +247,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-А4-8.png)
+![A4-8](screenshots/task-А4-8.png)
 
 Часть В: Функции
 Задание 4.1: Факториал (итеративно)
@@ -291,7 +291,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-B4-1.png)
+![B4-1](screenshots/task-B4-1.png)
 
 Задание 4.2: Факториал (рекурсивно)
 Постановка задачи
@@ -337,7 +337,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-B4-2.png)
+![B4-2](screenshots/task-B4-2.png)
 
 Задание 4.3: Степень числа
 Постановка задачи
@@ -390,7 +390,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-B4-3.png)
+![B4-3](screenshots/task-B4-3.png)
 
 Задание 4.4: Swap
 Постановка задачи
@@ -433,7 +433,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-B4-4.png)
+![B4-4](screenshots/task-B4-4.png)
 
 Задание 4.5: Максимум в массиве
 Постановка задачи
@@ -480,7 +480,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-B4-5.png)
+![B4-5](screenshots/task-B4-5.png)
 
 Задание 4.6: Индекс максимума
 Постановка задачи
@@ -531,7 +531,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-B4-6.png)
+![B4-6](screenshots/task-B4-6.png)
 
 Задание 4.7: Длина строки
 Постановка задачи
@@ -583,7 +583,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-B4-7.png)
+![B4-7](screenshots/task-B4-7.png)
 
 Задание 4.8: Копирование строки
 Постановка задачи
@@ -624,7 +624,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-B4-8.png)
+![B4-8](screenshots/task-B4-8.png)
 
 Задание 4.9: Реверс строки
 Постановка задачи
@@ -671,7 +671,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-B4-9.png)
+![B4-9](screenshots/task-B4-9.png)
 
 Задание 4.10: Минимум и максимум через указатели
 Постановка задачи
@@ -730,7 +730,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-B4-10.png)
+![B4-10](screenshots/task-B4-10.png)
 
 Задание 4.11: Сортировка массива
 Постановка задачи
@@ -793,4 +793,5 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-B4-11.png)
+
+![B4-11](screenshots/task-B4-11.png)
