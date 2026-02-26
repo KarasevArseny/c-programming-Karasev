@@ -171,7 +171,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-6-1.png
+![6-1](screenshots/task-6-1.png)
 
 Задание 6.2: Геометрические фигуры (Tagged Union)
 Постановка задачи
@@ -337,7 +337,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-6-2.png
+![6-2](screenshots/task-6-2.png)
 
 Задание 6.3: Выражения калькулятора (AST)
 Постановка задачи
@@ -469,7 +469,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-6-3.png
+![6-3](screenshots/task-6-3.png)
 
 Задание 6.4: Система сообщений
 Постановка задачи
@@ -630,7 +630,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-6-4.png
+![6-4](screenshots/task-6-4.png)
 
 Задание 6.5: Битовые флаги
 Постановка задачи
@@ -723,7 +723,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-6-5.png
+![6-5](screenshots/task-6-5.png)
 
 Задание 6.6: Конечный автомат (лексер)
 Постановка задачи
@@ -880,7 +880,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-6-6.png
+![6-6](screenshots/task-6-6.png)
 
 Задание 6.7*: JSON парсер
 Постановка задачи
@@ -1038,7 +1038,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-6-7.png
+![6-7](screenshots/task-6-7.png)
 
 Задание 6.8*: Умные указатели
 Постановка задачи
@@ -1123,4 +1123,5 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-6-8.png
+
+![6-8](screenshots/task-6-8.png)
