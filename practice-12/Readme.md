@@ -48,7 +48,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-12-1.png
+![12-1](screenshots/task-12-1.png)
 
 Задание 2: Передача структуры в поток
 Постановка задачи
@@ -109,7 +109,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-12-2.png
+![12-2](screenshots/task-12-2.png)
 
 Задание 3: Наблюдение race condition
 Постановка задачи
@@ -150,7 +150,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-12-3.png
+![12-3](screenshots/task-12-3.png)
 
 Задание 4: Исправление race condition с mutex
 Постановка задачи
@@ -196,7 +196,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-12-4.png
+![12-4](screenshots/task-12-4.png)
 
 Задание 5: Параллельное суммирование массива
 Постановка задачи
@@ -292,7 +292,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-12-5.png
+![12-5](screenshots/task-12-5.png)
 
 Задание 6: Счётчик с несколькими потоками
 Постановка задачи
@@ -369,4 +369,5 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-12-6.png
+
+![12-6](screenshots/task-12-6.png)
