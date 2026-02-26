@@ -59,7 +59,7 @@ int main(void) {
 }
 
 Результаты работы
-[2-1](screenshots/task-2-1.png)
+![2-1](screenshots/task-2-1.png)
 
 Задание 2.2: Чётное или нечётное
 Постановка задачи
@@ -92,7 +92,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-2-2.png)
+![2-2](screenshots/task-2-2.png)
 
 Задание 2.3: Максимум из трёх
 Постановка задачи
@@ -128,7 +128,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-2-3.png)
+![2-3](screenshots/task-2-3.png)
 
 Задание 2.4: Тип треугольника
 Постановка задачи
@@ -178,7 +178,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-2-4.png)
+![2-4](screenshots/task-2-4.png)
 
 Задание 2.5: Квадратное уравнение
 Постановка задачи
@@ -247,7 +247,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-2-5.png)
+![2-5](screenshots/task-2-5.png)
 
 Задание 2.6: Калькулятор
 Постановка задачи
@@ -313,7 +313,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-2-6.png)
+![2-6](screenshots/task-2-6.png)
 
 Задание 2.7: Високосный год
 Постановка задачи
@@ -352,7 +352,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-2-7.png)
+![2-7](screenshots/task-2-7.png)
 Задание 2.8: Интеграл методом трапеций
 Постановка задачи
 Вычислите определённый интеграл методом трапеций
@@ -402,7 +402,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-2-8.png)
+![2-8](screenshots/task-2-8.png)
 
 Задание 2.9: Интеграл синуса
 Постановка задачи
@@ -458,4 +458,5 @@ int main(void) {
 }
 Результаты работы
 
-(screenshots/task-2-9.png)
+![2-9](screenshots/task-2-9.png)
+
