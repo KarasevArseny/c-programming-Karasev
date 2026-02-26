@@ -206,7 +206,7 @@ json
 }
 
 Результаты работы
-screenshots/task-11-1.png
+![11-1](screenshots/task-11-1.png)
 
 Задание 11.2: HTTP-клиент (libcurl)
 Постановка задачи
@@ -347,7 +347,7 @@ int save_to_file(const char *filename, const char *data, size_t size) {
 }
 
 Результаты работы
-screenshots/task-11-2.png
+![11-2](screenshots/task-11-2.png)
 
 Задание 11.3: База данных (SQLite)
 Постановка задачи
@@ -473,7 +473,7 @@ int complete_task(sqlite3 *db, int id) {
 }
 
 Результаты работы
-screenshots/task-11-3.png
+![11-3](screenshots/task-11-3.png)
 
 Задание 11.4: Комбинированный проект (Weather App)
 Постановка задачи
@@ -575,4 +575,5 @@ $ pkg-config --cflags --libs libcurl libcjson sqlite3
 -I/usr/include/x86_64-linux-gnu -I/usr/include/cjson -I/usr/include -lcurl -lcjson -lsqlite3
 
 Результаты работы
-screenshots/task-11-4.png
+
+![11-4](screenshots/task-11-4.png)
