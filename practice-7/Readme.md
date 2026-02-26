@@ -104,7 +104,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-7-1.png
+![7-1](screenshots/task-7-1.png)
 
 Задание 7.2: Конфигурационный файл (INI)
 Постановка задачи
@@ -200,7 +200,7 @@ const char* config_get(const Config *cfg, const char *section, const char *key) 
 }
 
 Результаты работы
-screenshots/task-7-2.png
+![7-2](screenshots/task-7-2.png)
 
 Задание 7.3: База данных на файлах
 Постановка задачи
@@ -306,7 +306,7 @@ Record* db_get(Database *db, int id) {
 }
 
 Результаты работы
-screenshots/task-7-3.png
+![7-3](screenshots/task-7-3.png)
 
 Задание 7.4: Журнал (лог-файл)
 Постановка задачи
@@ -387,7 +387,7 @@ void logger_log(Logger *log, LogLevel level, const char *file,
 #define LOG_ERROR(l, ...) logger_log(l, LOG_ERROR, __FILE__, __LINE__, __func__, __VA_ARGS__)
 
 Результаты работы
-screenshots/task-7-4.png
+![7-1](screenshots/task-7-4.png)
 
 Задание 7.5: Работа с CSV файлами
 Постановка задачи
@@ -471,7 +471,7 @@ const char* csv_get_by_header(CSVFile *csv, int row, const char *header) {
 }
 
 Результаты работы
-screenshots/task-7-5.png
+![7-5](screenshots/task-7-5.png)
 
 Задание 7.6: Бинарный формат изображения
 Постановка задачи
@@ -507,7 +507,7 @@ image_save	int (*)(const Image*, const char*)	Сохранение в файл
 image_load	Image* (*)(const char*)	Загрузка из файла
 
 Результаты работы
-screenshots/task-7-6.png
+![7-6](screenshots/task-7-6.png)
 
 Задание 7.7*: Индексированный файл
 Постановка задачи
@@ -556,7 +556,7 @@ int index_insert(const char *index_file, int key, long offset) {
 }
 
 Результаты работы
-screenshots/task-7-7.png
+![7-7](screenshots/task-7-7.png)
 
 Задание 7.8*: Потоковая обработка
 Постановка задачи
@@ -607,4 +607,5 @@ int count_processor(const char *chunk, size_t size, void *context) {
 }
 
 Результаты работы
-screenshots/task-7-8.png
+
+![7-8](screenshots/task-7-8.png)
