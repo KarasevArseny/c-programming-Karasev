@@ -461,4 +461,5 @@ meson compile -C builddir
 meson test -C builddir
 
 Результат работы
-screenshots/task-9-1.png
+
+![9-1](screenshots/task-9-1.png)
