@@ -126,7 +126,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-screenshots/task-10-1.png
+![10-1](screenshots/task-10-1.png)
 
 Задание 10.2: Библиотека для работы со строками (StrUtils)
 Постановка задачи
@@ -303,7 +303,7 @@ int main(void) {
 }
 
 Результаты работы
-screenshots/task-10-2.png
+![10-2](screenshots/task-10-2.png)
 
 Задание 10.3: Makefile для кроссплатформенной сборки
 Постановка задачи
@@ -417,7 +417,7 @@ clean:
 	$(RM) $(EXE_STATIC) $(EXE_SHARED) $(EXE) 2>/dev/null || true
 
 Результаты работы
-screenshots/task-10-3.png
+![10-3](screenshots/task-10-3.png)
 
 Задание 10.4: Версионирование библиотеки (Linux)
 Постановка задачи
@@ -599,4 +599,5 @@ project/
 └── program_shared         # Динамическая версия
 
 Результаты работы
-screenshots/task-10-4.png
+
+![10-4](screenshots/task-10-4.png)
