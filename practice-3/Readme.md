@@ -40,7 +40,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-3-1.png)
+![3-1](screenshots/task-3-1.png)
 
 Задание 3.2: Сумма гармонического ряда
 Постановка задачи
@@ -88,7 +88,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-3-2.png)
+![3-2](screenshots/task-3-2.png)
 
 Задание 3.3: Числа Фибоначчи
 Постановка задачи
@@ -142,7 +142,7 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-3-3.png)
+![3-3](screenshots/task-3-3.png)
 
 Задание 3.4: Среднее арифметическое
 Постановка задачи
@@ -189,7 +189,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-3-4.png)
+![3-4](screenshots/task-3-4.png)
 
 Задание 3.5: Минимум и максимум
 Постановка задачи
@@ -230,7 +230,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-3-5.png)
+![3-5](screenshots/task-3-5.png)
 
 Задание 3.6: Реверс массива
 Постановка задачи
@@ -286,7 +286,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-3-6.png)
+![3-6](screenshots/task-3-6.png)
 
 Задание 3.7: Числа Падована
 Постановка задачи
@@ -351,7 +351,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-3-7.png) 
+![3-7](screenshots/task-3-7.png) 
 
 Задание 3.8: Решето Эратосфена
 Постановка задачи
@@ -413,7 +413,7 @@ int main(void) {
 }
 
 Результаты работы
-(screenshots/task-3-8.png) 
+![3-8](screenshots/task-3-8.png) 
 
 Задание 3.9: Сортировка пузырьком
 Постановка задачи
@@ -462,4 +462,5 @@ int main(void) {
     return 0;
 }
 Результаты работы
-(screenshots/task-3-9.png) 
+
+![3-9](screenshots/task-3-9.png) 
