@@ -317,7 +317,7 @@ void test_basic_functions() {
 }
 
 Результаты работы
-screenshots/task-8-1.png
+![8-1](screenshots/task-8-1.png)
 
 Задание 8.2: Библиотека для работы со строками (StrLib)
 Постановка задачи
@@ -485,7 +485,7 @@ bool str_starts_with(const String *s, const char *prefix) {
 }
 
 Результаты работы
-screenshots/task-8-2.png
+![8-2](screenshots/task-8-2.png)
 
 Задание 8.3: Утилиты для работы с файлами (FileUtils)
 Постановка задачи
@@ -703,7 +703,7 @@ int file_copy(const char *src, const char *dst) {
 }
 
 Результаты работы
-screenshots/task-8-3.png
+![8-3](screenshots/task-8-3.png)
 
 Задание 8.4: Простой HTTP-парсер (HTTPLib)
 Постановка задачи
@@ -857,7 +857,7 @@ HttpRequest* http_request_parse(const char *raw) {
 }
 
 Результаты работы
-screenshots/task-8-4.png
+![8-4](screenshots/task-8-4.png)
 
 Задание 8.5: Мини-тестовый фреймворк (MiniTest)
 Постановка задачи
@@ -1045,4 +1045,5 @@ int main() {
 }
 
 Результаты работы
-screenshots/task-8-5.png
+
+![8-1](screenshots/task-8-5.png)
